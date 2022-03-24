@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @akkash279
-- 👀 I’m interested in Kernel Development
 - 📫 To reach me contact on telgram @akkash279
 - 🇮🇳 From India
 <!---
